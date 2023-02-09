@@ -115,7 +115,7 @@ About me
  <p align="center">
 <a href="https://github.com/abhi-swami">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=algolia"/>
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=dracula"/>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
@@ -134,9 +134,12 @@ About me
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
 </p>
+  
+  ![Abhishek's Github Contribution](https://github.com/abhi-swami/abhi-swami/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
+![Abhishek's Github Contribution](https://github.com/abhi-swami/abhi-swami/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=  Thank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
 

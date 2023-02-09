@@ -1,18 +1,24 @@
-<p align="center"> <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif" alt="abhi-swami" /> </p>
+<h1 align="center"> <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif" alt="abhi-swami" /> </h1>
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Abhishek Swami; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 ## :sassy_man:  About me
+<div display="flex">
+  <div>
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
 , with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
+    </div>
+  <div>
+    <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
+  </div>
 <br/>
 
 - 🔭 I’m currently exploring and polishing my skills
@@ -96,19 +102,15 @@
 <a href="https://github.com/abhi-swami">
  </br>
   <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=algolia"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="abhi"  width="50%"/></p>
         
- <p width="50%" align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=monokai" alt="abhi"  align="center"  width="50%"/></a> 
- </p>  
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
         width="50%"
      />

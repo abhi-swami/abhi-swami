@@ -42,7 +42,7 @@ About me
 -  📄 Know about my skills  [Resume]()
 
   
-  <h2 align="center">
+  <h2 align="left">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
@@ -57,7 +57,7 @@ About me
 <br/>
 
 
-  <h2 align="center">
+  <h2 align="left">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
  Languages and Tools
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -124,14 +124,14 @@ About me
 <p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="abhi"  width="50%"/></p>
-        
+ <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
         width="50%"
-     />
+      /></p>
 
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="saurav269" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
 </p>
  
  <p align="center">

@@ -62,7 +62,6 @@ About me
  Languages and Tools
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h2>
-<hr />
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>

@@ -134,9 +134,10 @@ About me
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
 </p>
-  
-  ![Abhishek's Github Contribution](https://github.com/abhi-swami/abhi-swami/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
-![Abhishek's Github Contribution](https://github.com/abhi-swami/abhi-swami/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
+  <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p><img align="center" src="https://raw.githubusercontent.com/abhi-swami/abhi-swami/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode" alt="abhi" height="300" width="100%"/></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">

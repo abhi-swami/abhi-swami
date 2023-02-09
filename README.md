@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif" alt="abhi-swami" /> </h1>
+<!-- <h1 align="center"> <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif" alt="abhi-swami" /> </h1> -->
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,7 +17,7 @@
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
     </div>
   <div>
-    <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
+    <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
   </div>
 <br/>
 

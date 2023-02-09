@@ -1,4 +1,4 @@
-![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)(https://abhi-swami.io)
+![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -95,9 +95,9 @@
  <p align="center">
 <a href="https://github.com/abhi-swami">
  </br>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=algolia"/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
-   width ="100%"   
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=algolia"/>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
+   width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 
@@ -108,21 +108,16 @@
         
  <p width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=monokai" alt="malhari"  width="50%"/></a> 
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=monokai" alt="abhi"  align="center"  width="50%"/></a> 
  </p>  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
         width="50%"
      />
 
 
-<p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="saurav269" /></a>
 </p>
-## ❤ Views and Followers
-<a href="https://github.com/abhi-swami/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abhi-swami">
-</a>
-<a href="https://github.com/abhi-swami?tab=followers"><img src="https://img.shields.io/github/followers/abhi-swami?label=Followers&style=social" alt="GitHub Badge"></a>
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">

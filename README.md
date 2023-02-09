@@ -1,4 +1,4 @@
-[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)](https://abhi-swami.io)
+![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)(https://abhi-swami.io)
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,10 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 ## :sassy_man:  About me
- I am Confident, hardworking, and highly ambitious full-stack web developer![CodingGIF](https://user-images.githubusercontent.com/110050855/217932085-8d9f9fab-1a9d-4c2f-8926-3f37db9baad5.gif)
-, with a keen interest to solve and learn new things'![BrainBrainCellsGIF](https://user-images.githubusercontent.com/110050855/217932813-3f028e64-3836-48a2-8d5a-71dbfaa847a3.gif)
-. Dedicated 1000+ hours of coding and experience in developing functional websites![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/110050855/217933300-dc334de1-0cdd-442b-9871-29b6f96473a2.gif)
-. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem.
+ I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
+, with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
+. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
 <br/>
 
 - 🔭 I’m currently exploring and polishing my skills
@@ -32,7 +31,9 @@
 
 -  📄 Know about my skills  [Resume]()
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me ![HandshakeGIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif)
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023588813593) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skg221/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-a13235244/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()  
 
 <p align="left">
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
@@ -122,4 +123,9 @@
     <img src="https://komarev.com/ghpvc/?username=abhi-swami">
 </a>
 <a href="https://github.com/abhi-swami?tab=followers"><img src="https://img.shields.io/github/followers/abhi-swami?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p>
 

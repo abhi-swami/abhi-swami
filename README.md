@@ -1,16 +1,15 @@
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)" alt="abhi-swami" /> </p>
+<p align="center"> <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif" alt="abhi-swami" /> </p>
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Abhishek Swami; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
-<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
+<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 ## :sassy_man:  About me
-<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
 , with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
@@ -33,7 +32,6 @@
 -  📄 Know about my skills  [Resume]()
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023588813593) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skg221/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-a13235244/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()  
 
@@ -103,12 +101,11 @@
          height="200px" 
 /></a> </p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="malhari" width="50%"/></p>
-  <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="amrutem11"  width="50%"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="abhi"  width="50%"/></p>
         
- <p width="50%" > <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <p width="50%" align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=monokai" alt="abhi"  align="center"  width="50%"/></a> 
  </p>  

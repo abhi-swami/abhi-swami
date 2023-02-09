@@ -7,9 +7,13 @@
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
-## :sassy_man:  About me
+<h2 align="center">
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+About me
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h2>
 <div display="flex">
   <div>
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
@@ -37,7 +41,12 @@
 
 -  📄 Know about my skills  [Resume]()
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  
+  <h2 align="center">
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h2>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023588813593) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skg221/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-a13235244/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()  
 
@@ -47,7 +56,12 @@
 </p>
 <br/>
 
- <h3>Languages and Tools:</h3>
+
+  <h2 align="center">
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ Languages and Tools
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h2>
 <hr />
 <div align="center">
  

@@ -120,7 +120,7 @@ About me
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
-<div display="flex">
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p></div>
 <div>

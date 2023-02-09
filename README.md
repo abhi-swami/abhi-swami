@@ -1,16 +1,125 @@
-### Hi there 👋
+[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif)](https://abhi-swami.io)
+<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Abhishek Swami; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p>
+<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
 
-<!--
-**abhi-swami/abhi-swami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
-Here are some ideas to get you started:
+## :sassy_man:  About me
+ I am Confident, hardworking, and highly ambitious full-stack web developer![CodingGIF](https://user-images.githubusercontent.com/110050855/217932085-8d9f9fab-1a9d-4c2f-8926-3f37db9baad5.gif)
+, with a keen interest to solve and learn new things'![BrainBrainCellsGIF](https://user-images.githubusercontent.com/110050855/217932813-3f028e64-3836-48a2-8d5a-71dbfaa847a3.gif)
+. Dedicated 1000+ hours of coding and experience in developing functional websites![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/110050855/217933300-dc334de1-0cdd-442b-9871-29b6f96473a2.gif)
+. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently exploring and polishing my skills
+ 
+- 🌱 I’m currently learning **MERN: Full Stack Web Developer.**
+
+- ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
+
+-  👨‍💻 My Portfilio[Click here](https://abhi-swami.github.io/)
+
+-  👀 My Github Repositories [Click here](https://github.com/abhi-swami?tab=repositories)
+
+-  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
+
+-  📫 How to reach me: **abhiswami338@gmail.com**
+
+-  📄 Know about my skills  [Resume]()
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me ![HandshakeGIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif)
+
+<p align="left">
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40" /></a>
+</p>
+<br/>
+
+ <h3> ![WorkComputerGIF](https://user-images.githubusercontent.com/110050855/217937615-8414e29d-c519-4e53-93bf-aaabf96df3d2.gif) Languages and Tools:</h3>
+<hr />
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  align="center" alt="type script"/>
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+ 
+ <div align="center"><h3 align="center">Tools</h3> 
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="render">
+     <br />
+     <br />
+
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
+
+<br/>
+<br/>
+<br/>
+<h2 align="center">
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ My Github Stats 
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h2>
+ <p align="center">
+<a href="https://github.com/abhi-swami">
+ </br>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=algolia"/>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
+   width ="100%"   
+         height="200px" 
+/></a> </p>
+
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="malhari" width="50%"/></p>
+  <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="amrutem11"  width="50%"/></p>
+        
+ <p width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=monokai" alt="malhari"  width="50%"/></a> 
+ </p>  
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"
+        width="50%"
+     />
+
+
+<p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="saurav269" /></a>
+</p>
+## ❤ Views and Followers
+<a href="https://github.com/abhi-swami/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abhi-swami">
+</a>
+<a href="https://github.com/abhi-swami?tab=followers"><img src="https://img.shields.io/github/followers/abhi-swami?label=Followers&style=social" alt="GitHub Badge"></a>
+

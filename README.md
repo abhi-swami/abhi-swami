@@ -21,7 +21,7 @@ About me
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
     </div>
   <div>
-    <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473kz6g5z0mhq17wrmpfc2tz8d6sh2wheneodda572&rid=200w.webp&ct=g">
+    <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif">
   </div>
 <br/>
 

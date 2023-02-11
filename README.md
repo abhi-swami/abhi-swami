@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 <h2 align="center">
- <img src="https://i.pinimg.com/originals/7e/8d/6a/7e8d6a8819bb79e8e25029d15d12678c.gif" width="30" height="30" align="center">
+ <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
 About me
- <img src="https://i.pinimg.com/originals/7e/8d/6a/7e8d6a8819bb79e8e25029d15d12678c.gif" width="30" height="30" align="center">
+ <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
 </h2>
 <div display="flex">
   <div>
@@ -43,8 +43,8 @@ About me
 
   
   <h2 align="left">
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
- Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+ Connect with me <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
 </h2>
 
 <!-- 
@@ -60,9 +60,9 @@ About me
 
 
   <h2 align="left">
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
  Languages and Tools
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
 </h2>
 <div align="center">
  
@@ -109,9 +109,9 @@ About me
 <br/>
 <br/>
 <h2 align="center">
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
  My Github Stats 
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
 </h2>
  <p align="center">
 <a href="https://github.com/abhi-swami">

@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 <h2 align="center">
- <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+ <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
 About me
- <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+ <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
 </h2>
 <div display="flex">
   <div>
@@ -43,8 +43,8 @@ About me
 
   
   <h2 align="left">
-<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
- Connect with me <img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+ Connect with me <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
 </h2>
 
 <!-- 
@@ -60,9 +60,9 @@ About me
 
 
   <h2 align="left">
-<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
  Languages and Tools
-<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
 </h2>
 <div align="center">
  
@@ -109,9 +109,9 @@ About me
 <br/>
 <br/>
 <h2 align="center">
-<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
  My Github Stats 
-<img src="https://i.pinimg.com/originals/66/bc/67/66bc674c98c9b13cef92e50a463a594d.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
 </h2>
  <p align="center">
 <a href="https://github.com/abhi-swami">

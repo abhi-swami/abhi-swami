@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 <h2 align="center">
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ <img src="https://i.pinimg.com/originals/7e/8d/6a/7e8d6a8819bb79e8e25029d15d12678c.gif" width="30" height="30" align="center">
 About me
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ <img src="https://i.pinimg.com/originals/7e/8d/6a/7e8d6a8819bb79e8e25029d15d12678c.gif" width="30" height="30" align="center">
 </h2>
 <div display="flex">
   <div>

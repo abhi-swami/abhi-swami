@@ -39,7 +39,7 @@ About me
 
 -  📫 How to reach me: **abhiswami338@gmail.com**
 
--  📄 Know about my skills  [Resume]()
+<!-- -  📄 Know about my skills  [Resume]() -->
 
   
   <h2 align="left">

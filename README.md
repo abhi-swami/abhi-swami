@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 <h2 align="center">
- <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+ <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
 About me
- <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+ <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
 </h2>
 <div display="flex">
   <div>
@@ -21,7 +21,7 @@ About me
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
     </div>
   <div>
-    <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif">
+    <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
   </div>
 <br/>
 
@@ -43,8 +43,8 @@ About me
 
   
   <h2 align="left">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
- Connect with me <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="20" height="20" align="center">
+ Connect with me <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
 </h2>
 
 <!-- 
@@ -60,9 +60,9 @@ About me
 
 
   <h2 align="left">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
  Languages and Tools
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
 </h2>
 <div align="center">
  
@@ -109,9 +109,9 @@ About me
 <br/>
 <br/>
 <h2 align="center">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
  My Github Stats 
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="40" height="40" align="center">
+<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="20" height="20" align="center">
 </h2>
  <p align="center">
 <a href="https://github.com/abhi-swami">

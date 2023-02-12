@@ -1,6 +1,6 @@
-<h1 background-color='black'>
+
 <h1 align="center"> <img src="https://jayamwebsolutions.com/img/website.gif" alt="abhi-swami" /> </h1>
-<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<h1 align="center" color="red"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Abhishek Swami; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
@@ -16,7 +16,7 @@ About me
  <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 </h2>
 <div display="flex">
-  <div style=backgroundColor:green>
+  <div>
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
 , with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
@@ -148,4 +148,3 @@ About me
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-</h1>

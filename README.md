@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-swami" /> </p>
 
 <h2 align="center">
- <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+ <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 About me
- <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+ <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 </h2>
 <div display="flex">
   <div>
@@ -42,9 +42,9 @@ About me
 <!-- -  📄 Know about my skills  [Resume]() -->
 
   
-  <h2 align="left">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="20" height="20" align="center">
- Connect with me <img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+  <h2 align="center">
+<img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif" width="20" height="20" align="center">
+ Connect with me <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 </h2>
 
 <!-- 
@@ -59,10 +59,10 @@ About me
 <br/>
 
 
-  <h2 align="left">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+  <h2 align="center">
+<img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
  Languages and Tools
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+<img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 </h2>
 <div align="center">
  
@@ -109,9 +109,9 @@ About me
 <br/>
 <br/>
 <h2 align="center">
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif"  width="20" height="20" align="center">
+<img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
  My Github Stats 
-<img src="https://i.pinimg.com/originals/91/7d/f8/917df85331ce3d08734cd555e475ca44.gif" width="20" height="20" align="center">
+<img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif" width="20" height="20" align="center">
 </h2>
  <p align="center">
 <a href="https://github.com/abhi-swami">

@@ -16,7 +16,7 @@ About me
  <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
 </h2>
 <div display="flex">
-  <div>
+  <div style=backgroundColor:green>
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
 , with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.

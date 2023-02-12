@@ -1,3 +1,4 @@
+
 <h1 align="center"> <img src="https://jayamwebsolutions.com/img/website.gif" alt="abhi-swami" /> </h1>
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
@@ -116,19 +117,19 @@ About me
  <p align="center">
 <a href="https://github.com/abhi-swami">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=dracula"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=vue-dark"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=monokai" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p></div>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=vue-dark" alt="abhi" width="50%"/></p></div>
 <div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="abhi"  width="50%"/></p></div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=vue-dark" alt="abhi"  width="50%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
-        width="50%" heigth="250px"
+        width="100%" heigth="250px"
       /></p>
 
 

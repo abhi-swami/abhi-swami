@@ -38,7 +38,7 @@ About me
 
 -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
--  📫 How to reach me: abhiswami338@gmail.com
+-  📫 How to reach me: (abhiswami338@gmail.com)
 
 <!-- -  📄 Know about my skills  [Resume]() -->
 

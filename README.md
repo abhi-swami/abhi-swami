@@ -32,13 +32,13 @@ About me
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
--  👨‍💻 My Portfilio[Click here](https://abhi-swami.github.io/)
+-  👨‍💻 My Portfilio  https://abhi-swami.github.io/
 
--  👀 My Github Repositories [Click here](https://github.com/abhi-swami?tab=repositories)
+-  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories
 
 -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
--  📫 How to reach me: **abhiswami338@gmail.com**
+-  📫 How to reach me: abhiswami338@gmail.com
 
 <!-- -  📄 Know about my skills  [Resume]() -->
 
@@ -137,7 +137,7 @@ About me
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
 </p>
   <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ![snake gif](https://github.com/abhi-swami/abhi-swami/blob/output/github-contribution-grid-snake.gif)
 

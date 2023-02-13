@@ -43,10 +43,10 @@ About me
 <!-- -  📄 Know about my skills  [Resume]() -->
 
   
-  <h2 align="center">
+<!--   <h2 align="center">
 <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif" width="20" height="20" align="center">
  Connect with me <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/color-gif-wallpaper/gifs-wallpaper-on-sale-46-off-wwwjornalproencapt.gif"  width="20" height="20" align="center">
-</h2>
+</h2> -->
 
 <!-- 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023588813593)

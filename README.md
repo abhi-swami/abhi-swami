@@ -139,7 +139,10 @@ About me
   <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![snake gif](https://github.com/abhi-swami/abhi-swami/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+ <img src="https://github.com/abhi-swami/abhi-swami/blob/output/github-contribution-grid-snake.svg"/>
+
+ </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  

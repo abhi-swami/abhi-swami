@@ -34,7 +34,7 @@ About me
 
 -  👨‍💻 My Portfilio  https://abhi-swami.github.io/
 
--  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories
+<!-- -  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories -->
 
 -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 

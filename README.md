@@ -138,6 +138,11 @@ About me
     src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
 </p>
   <br/>
+  <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
+  <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
+</p>
+  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">

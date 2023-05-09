@@ -108,7 +108,7 @@ About me
   <div>
 <p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF" alt="abhi" width="50%"/></p></div>
 <div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=vue-dark" alt="abhi"  width="50%"/></p></div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="abhi"  width="50%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
         width="100%" heigth="250px"

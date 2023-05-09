@@ -98,32 +98,36 @@ About me
 <a href="https://github.com/abhi-swami">
  </br>
 <!--    most used language -->
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
+  <div align="center" width="100px">
+    <img width="100%" heigth="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
+  </div>
+  
 <!--    trophy -->
   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
-/></a> </p>
-<p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF" alt="abhi"/>
-&nbsp<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="abhi"/>
-</p>
-
+/></a> </p>  
+  
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
+  </div>
+</div>
  
 
- </div>
  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&bg_color=FFFFFF00&title_color=C792EA&line=C792EA&point=F1E05A&area_color=281D2F&radius=4.5&color=FFFFFF&border_color=281D2F&hide_border=true"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 
-<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
+<p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=material_palenight" align="center" /></a>
 </p>
   <br/>
   <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
-  <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+  <p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
 </p>
   </div>
@@ -140,3 +144,5 @@ About me
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
+
+

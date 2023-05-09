@@ -99,7 +99,7 @@ About me
  </br>
 <!--    most used language -->
   <div align="center" >
-    <img width="60%" heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
+    <img width="60%" heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF"/>
   </div>
   
 <!--    trophy -->
@@ -128,7 +128,7 @@ About me
   <br/>
   <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
   <p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
+    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
 </p>
   </div>
   
@@ -139,11 +139,11 @@ About me
 <div width="100%" align="center">
 
  <a align="left" href="https://github.com/abhi-swami/Flipkart-Website-clone" title="bestbuy">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=61dafb&border_radius=10">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/abhi-swami/Flipkart-Website-clone" title="bestbuy">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
   </a>
  
   
@@ -154,11 +154,11 @@ About me
 <div width="100%" align="center">
 
    <a align="left" href="https://github.com/SaurabhBH123/medicare-plus" title="medi">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=medicare-plus&theme=material-palenight&border_color=61dafb&border_radius=10">
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=medicare-plus&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/abhi-swami/Best-Buy-Website-clone" title="bestbuy">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Best-Buy-Website-clone&theme=material-palenight&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Best-Buy-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
   </a>
   
 </div>

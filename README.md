@@ -98,7 +98,7 @@ About me
 <a href="https://github.com/abhi-swami">
  </br>
 <!--    most used language -->
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
 <!--    trophy -->
   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
    width ="100%"    align="center"

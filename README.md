@@ -98,8 +98,8 @@ About me
 <a href="https://github.com/abhi-swami">
  </br>
 <!--    most used language -->
-  <div align="center" width="100px">
-    <img width="70%" heigth="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
+  <div align="center" >
+    <img width="60%" heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&bg_color=00000000&layout=compact&theme=material-palenight&border_color=4E406F&text_color=FFFFFF"/>
   </div>
   
 <!--    trophy -->

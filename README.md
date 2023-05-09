@@ -15,11 +15,7 @@ About me
 
 </h2>
 <div display="flex">
-  <div style="color: green">
- I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
-, with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
-. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
-    </div>
+ 
   <div>
     <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
   </div>

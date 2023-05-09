@@ -98,7 +98,7 @@ About me
 <a href="https://github.com/abhi-swami">
  </br>
   <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=vue-dark"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=monokai" alt="abhi"
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
@@ -135,4 +135,3 @@ About me
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
-

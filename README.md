@@ -105,8 +105,8 @@ About me
          height="200px" 
 /></a> </p>
 <p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF" alt="abhi" width="48%" height="294px"/>
-&nbsp<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="abhi" width="50%" height="294px"/>
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF" alt="abhi"/>
+&nbsp<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="abhi"/>
 </p>
 
  
@@ -124,7 +124,7 @@ About me
   <br/>
   <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
   <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
+    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
 </p>
   </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

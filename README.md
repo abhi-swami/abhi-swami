@@ -97,14 +97,16 @@ About me
  <p align="center">
 <a href="https://github.com/abhi-swami">
  </br>
+<!--    most used language -->
   <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=vue-dark"/>
+<!--    trophy -->
   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 <h1 display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=vue-dark" alt="abhi" width="50%"/></p></div>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF" alt="abhi" width="50%"/></p></div>
 <div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=vue-dark" alt="abhi"  width="50%"/></p></div>
  <p align="center">

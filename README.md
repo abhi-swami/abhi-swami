@@ -99,36 +99,36 @@ About me
  </br>
 <!--    most used language -->
   <div align="center" >
-    <img width="60%" heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF"/>
+    <img width="60%" heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF"/>
   </div>
   
 <!--    trophy -->
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&bg_color=000000&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>  
   
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=00000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF"/>
-    <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&background=FFFFFF00&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&bg_color=000000&theme=material-palenight&show_icons=true&icon_color=4E406F&border_color=4E406F&text_color=FFFFFF"/>
+    <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&bg_color=000000&theme=material-palenight&border=4E406F&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
   </div>
 </div>
  
 
  <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&bg_color=FFFFFF00&title_color=C792EA&line=C792EA&point=F1E05A&area_color=281D2F&radius=4.5&color=FFFFFF&border_color=281D2F&hide_border=true"  align="center"
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&bg_color=000000&title_color=C792EA&line=C792EA&point=F1E05A&area_color=281D2F&radius=4.5&color=FFFFFF&border_color=281D2F&hide_border=true"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 
 <p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=material_palenight" align="center" /></a>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&bg_color=000000&theme=material_palenight" align="center" /></a>
 </p>
   <br/>
   <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
   <p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
+    src="https://github-contributor-stats.vercel.app/api?username=abhi-swami&limit=5&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="abhi" hight="100px" align="center" /></a>
 </p>
   </div>
   
@@ -138,12 +138,12 @@ About me
 
 <div width="100%" align="center">
 
-  <a align="left" href="https://github.com/SaurabhBH123/medicare-plus" title="medi">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=medicare-plus&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
+  <a align="left" href="https://github.com/abhi-swami/Bewakoof-Website-Clone" title="medi">
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Bewakoof-Website-Clone&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF&border_radius=10">
   </a>
 
   <a align="right" href="https://github.com/abhi-swami/Flipkart-Website-clone" title="bestbuy">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF&border_radius=10">
   </a>
  
   
@@ -154,10 +154,10 @@ About me
 <div width="100%" align="center">
 
   <a align="left" href="https://github.com/abhi-swami/Bewakoof-Website-Clone" title="medi">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Bewakoof-Website-Clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Bewakoof-Website-Clone&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF&border_radius=10">
   </a>
   <a align="right" href="https://github.com/abhi-swami/Best-Buy-Website-clone" title="bestbuy">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Best-Buy-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=00000000&text_color=FFFFFF&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Best-Buy-Website-clone&theme=material-palenight&border_color=4E406F&bg_color=000000&text_color=FFFFFF&border_radius=10">
   </a>
   
 </div>

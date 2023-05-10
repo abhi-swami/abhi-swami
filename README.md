@@ -103,7 +103,7 @@ About me
   </div>
   
 <!--    trophy -->
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&&theme=darkhub&bg_color=000000&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="abhi"
+   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=darkhub&border_color=61dafb&color=61dafb" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>  

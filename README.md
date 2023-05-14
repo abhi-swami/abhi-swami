@@ -14,29 +14,39 @@
 About me
 
 </h2>
-<p> I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
-, with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
-. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.</p>
+<p>
+👨‍💻 I am a highly ambitious and self-motivated full-stack web developer with a passion for problem-solving and a deep desire to learn. With over 1000 hours of hands-on experience developing functional websites, I am confident in my ability to deliver high-quality work. 🚀 My expertise in JavaScript and the React framework allows me to approach complex challenges with ease and find creative solutions. 🔍 I have a keen eye for detail and a natural ability to decode patterns, making me an invaluable asset to any team. 💪</p>
 <div display="flex">
  
   <div>
     <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
   </div>
 <br/>
+  
+  
+   ### 🧐 More About Me:
 
-- 🔭 I’m currently exploring and polishing my skills
+- ☘️ &nbsp; I’m currently learning **full stack web development**
+- 🤝 &nbsp; I’m looking forward to work in software industry 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhi-swami?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://abhi-swami.github.io/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-swami/)
+<!-- - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) -->
+
+<!-- - 🔭 I’m currently exploring and polishing my skills
  
 - 🌱 I’m currently learning **MERN: Full Stack Web Developer.**
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
--  👨‍💻 My Portfilio  https://abhi-swami.github.io/
+-  👨‍💻 My Portfilio  https://abhi-swami.github.io/ -->
 
 <!-- -  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories -->
 
--  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
+<!-- -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
--  📫 How to reach me: **abhiswami338@gmail.com**
+-  📫 How to reach me: **abhiswami338@gmail.com** -->
 
 <!-- -  📄 Know about my skills  [Resume]() -->
 

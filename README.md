@@ -14,6 +14,9 @@
 About me
 
 </h2>
+<p> I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
+, with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
+. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.</p>
 <div display="flex">
  
   <div>

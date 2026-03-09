@@ -30,8 +30,8 @@ About me
 - 🤝 &nbsp; I’m looking forward to work in software industry 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhi-swami?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://abhi-swami.github.io/)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-swami/)
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://abhi-swami.in)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhi-swami/)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) -->
 
 <!-- - 🔭 I’m currently exploring and polishing my skills
@@ -40,20 +40,20 @@ About me
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
--  👨‍💻 My Portfilio  https://abhi-swami.github.io/ -->
+-  👨‍💻 My Portfilio  https://abhi-swami.in/ -->
 
 <!-- -  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories -->
 
 <!-- -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
--  📫 How to reach me: **abhiswami338@gmail.com** -->
+-  📫 How to reach me: **abhi.swame@gmail.com** -->
 
 <!-- -  📄 Know about my skills  [Resume]() -->
 
   
 <h2 align="center">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-swami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-swami/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhi-swami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhi-swami/" height="30" width="40" /></a>
 </p>
 <br/>
 

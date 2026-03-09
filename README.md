@@ -32,7 +32,7 @@ About me
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://abhi-swami.in)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhi-swami/)
-<!-- - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) -->
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
 
 <!-- - 🔭 I’m currently exploring and polishing my skills
  

@@ -84,14 +84,14 @@ I am a **Full-Stack Web Developer with 2+ years of experience** building scalabl
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&theme=gotham&border_color=121b22&bg_color=121b22"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&theme=gotham&border_color=121b22&bg_color=121b22&text_color=adbac7"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&layout=compact&theme=whatsapp-dark&card_height=195"/>
 
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&&theme=gotham&border_color=121b22&bg_color=121b22&text_color=adbac7"/>
 
 
 </p>
@@ -111,11 +111,11 @@ I am a **Full-Stack Web Developer with 2+ years of experience** building scalabl
 <p align="center">
 
 <a href="https://github.com/abhi-swami/Bewakoof-Website-Clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Bewakoof-Website-Clone&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Bewakoof-Website-Clone&theme=gotham&border_color=121b22&bg_color=121b22&text_color=adbac7"/>
 </a>
 
 <a href="https://github.com/abhi-swami/Flipkart-Website-clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-swami&repo=Flipkart-Website-clone&theme=gotham&border_color=121b22&bg_color=121b22&text_color=adbac7"/>
 </a>
 
 </p>
@@ -123,7 +123,7 @@ I am a **Full-Stack Web Developer with 2+ years of experience** building scalabl
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-swami&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-swami&bg_color=121922&color=adbac7&line=00a884&point=e3e7ea&area=true&hide_border=true"/>
 </p>
 
 ---

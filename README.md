@@ -101,7 +101,7 @@ I am a **Full-Stack Web Developer with 2+ years of experience** building scalabl
 ### 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=darkhub"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=abhi-swami&theme=oldie&no-bg=true"/>
 </p>
 
 ---

@@ -85,7 +85,7 @@ I am a **Full-Stack Web Developer with 2+ years of experience** building scalabl
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&theme=gotham&border_color=121b22&bg_color=121b22&text_color=adbac7"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&layout=compact&theme=whatsapp-dark&card_height=195"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&layout=compact&theme=whatsapp-dark&card_height=195&card_widhth=200"/>
 
 
 </p>

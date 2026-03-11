@@ -25,8 +25,8 @@ About me
 </p>
 <div display="flex">
  
-  <div>
-    <img align="right" alt="Coding" width="400" height="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
+  <div aligne ="center" margin-top="10">
+    <img align="right" alt="Coding" width="400" height="400" padding-top="20" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
   </div>
 <br/>
   
@@ -107,7 +107,7 @@ About me
   </div>
   
 <!--    trophy -->
-   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=darkhub&border_color=61dafb&color=61dafb" alt="abhi"
+   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy-tawny.vercel.app/?username=abhi-swami&theme=darkhub&border_color=61dafb&color=61dafb" alt="abhi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>  
@@ -121,13 +121,13 @@ About me
  
 
  <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&bg_color=000000&title_color=C792EA&line=C792EA&point=F1E05A&area_color=281D2F&radius=4.5&color=FFFFFF&border_color=281D2F&hide_border=true"  align="center"
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-swami&bg_color=293036&color=ffffff&line=9ecbff&point=0076f5&area=true&hide_border=true"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 
 <p width="100%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&bg_color=000000&theme=material_palenight" align="center" /></a>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&bg_color=000000&theme=material_palenight"  align="center" /></a>
 </p>
   <br/>
   <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
@@ -200,5 +200,4 @@ About me
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
-
 

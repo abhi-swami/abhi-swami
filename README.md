@@ -26,7 +26,7 @@ About me
 <div display="flex">
  
   <div>
-    <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
+    <img align="right" alt="Coding" width="400" height="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
   </div>
 <br/>
   
@@ -41,25 +41,9 @@ About me
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhi-swami/)
 - 📝 &nbsp; Checkout my [Resume](https://pub-19394998e7f349069f6dadeecc9a4994.r2.dev/Abhishek-Swami-Resume.pdf)
 
-<!-- - 🔭 I’m currently exploring and polishing my skills
- 
-- 🌱 I’m currently learning **MERN: Full Stack Web Developer.**
-
-- ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
-
--  👨‍💻 My Portfilio  https://abhi-swami.in/ -->
-
-<!-- -  👀 My Github Repositories https://github.com/abhi-swami?tab=repositories -->
-
-<!-- -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
-
--  📫 How to reach me: **abhi.swame@gmail.com** -->
-
-<!-- -  📄 Know about my skills  [Resume]() -->
-
   
 <h2 align="center">Connect with me:</h2>
-<p align="left">
+<p align="left" margin="auto">
 <a href="https://www.linkedin.com/in/abhi-swami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhi-swami/" height="30" width="40" /></a>
 </p>
 <br/>

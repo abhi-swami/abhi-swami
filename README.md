@@ -2,10 +2,8 @@
 <h1 align="center"> <img src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="abhi-swami" /> </h1>
 <h1 align="center" ><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Abhishek Swami <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <!-- <a href="https://git.io/typing-svg"> -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full-stack+web+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-  <!-- </a> -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full-stack+web+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+
 </p>
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
@@ -17,7 +15,14 @@ About me
 
 </h2>
 <p>
-👨‍💻 I am a highly ambitious and self-motivated full-stack web developer with a passion for problem-solving and a deep desire to learn. With over 1000 hours of hands-on experience developing functional websites, I am confident in my ability to deliver high-quality work. 🚀 My expertise in JavaScript and the React framework allows me to approach complex challenges with ease and find creative solutions. 🔍 I have a keen eye for detail and a natural ability to decode patterns, making me an invaluable asset to any team. 💪</p>
+👨‍💻 I am a self-motivated Full-Stack Web Developer with 2+ years of experience building scalable and high-performance web applications. I specialize in JavaScript, React.js, and Next.js, and enjoy solving complex problems by building efficient and maintainable solutions.
+
+🚀 I have hands-on experience developing modern web applications with API integration, state management, and performance optimization, focusing on creating fast, SEO-friendly, and user-centric products.
+
+🔍 With strong attention to detail and a problem-solving mindset, I enjoy breaking down complex challenges and turning them into clean, practical solutions.
+
+💡 I am continuously learning and exploring new technologies to improve my development skills and build better web experiences.
+</p>
 <div display="flex">
  
   <div>
@@ -32,9 +37,9 @@ About me
 - 🤝 &nbsp; I’m looking forward to work in software industry 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhi-swami?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://abhi-swami.in)
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> &nbsp; My Portfilio [Portfilio](https://abhi-swami.in)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhi-swami/)
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
+- 📝 &nbsp; Checkout my [Resume](https://pub-19394998e7f349069f6dadeecc9a4994.r2.dev/Abhishek-Swami-Resume.pdf)
 
 <!-- - 🔭 I’m currently exploring and polishing my skills
  
